@@ -35,7 +35,7 @@ proguard-project.txt
 tmp
 wahtod.release.keystore
 gradle.properties
-*gradle*
+#*gradle*
 *proguard*
 *lint*
 out
